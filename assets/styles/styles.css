@@ -1,4 +1,107 @@
-*{
+* {
     margin: 0px;
+    padding: 0px;
     font-family: 'Work Sans', sans-serif;
 }
+
+/* header section styles */
+.banner {
+    background-image: url(../images/banner/banner.png);
+    width: 1600px;
+    height: 808px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+}
+
+.header-container {
+    width: 525px;
+    margin-bottom: 166px;
+    margin-right: 230px;
+}
+
+.header-title {
+    font-size: 65px;
+    font-weight: 700;
+    text-align: right;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+
+.header-description {
+    font-size: 16px;
+    text-align: right;
+    color: #FFFFFF;
+    margin-bottom: 32px;
+}
+
+.button-contact {
+    display: flex;
+    justify-content: end;
+}
+
+
+/* button primary style */
+.btn-pri {
+    width: 160px;
+    height: 64px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #005FAC;
+    border-radius: 5px;
+    border-style: none;
+}
+
+/* main section styles start */
+/* failure */
+.failure-sec {
+    width: 1080px;
+    height: 725px;
+    display: flex;
+    justify-content: space-around;
+    margin: 130px auto 130px auto;
+}
+
+.failure-img {
+    width: 570px;
+    height: 725px;
+    padding-right: 80px;
+}
+
+.failure-article {
+    margin-top: 240px;
+    width: 416px;
+    height: 400px;
+}
+
+.sec-title {
+    font-size: 40px;
+    font-weight: 700;
+    color: #151414;
+    padding-bottom: 24px;
+}
+
+.failure-article>p {
+    font-size: 16px;
+    color: #444343;
+    padding-bottom: 16px;
+}
+
+.failure-list {
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+
+}
+
+.failure-list>p>span {
+    color: #16D887;
+    font-size: 20px;
+    padding-right: 5px;
+}
+/* failure section end */
+
+/* my plans section stat */
+/* main section styles end */
+
