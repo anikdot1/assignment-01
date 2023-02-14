@@ -170,7 +170,7 @@
 .mindset-sec {
     width: 1140px;
     height: 300px;
-    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(/assets/images/watch.png);
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(./assets/images/watch.png);
     border-radius: 8px;
     margin: 130px auto 0px auto;
 }
