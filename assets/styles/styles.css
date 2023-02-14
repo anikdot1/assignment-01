@@ -102,7 +102,27 @@
 }
 
 /* failure section end */
+/* motivation section */
+.motivation {
+    width: 980px;
+    height: 540px;
+    margin: 130px auto 0px auto;
+}
 
+.motivation>h2 {
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    background: radial-gradient(circle at center, #ffffff 0, #f9fc76, #1c8be6c2 100%);
+    border-radius: 8px;
+}
+
+.motivation>p {
+    font-size: 20px;
+    color: #444343;
+    padding-bottom: 32px;
+    text-align: center;
+}
 /* my plans section stat */
 
 .my-plan-sec {
